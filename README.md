@@ -1,5 +1,11 @@
 # Pingmb
 
+## Herramientas
+
+## Procedimiento
+> 1)Intercambio de llaves entre el servidor web 
+> 2)
+> 
 ## Resultados
 Los resultados que recibo desde mi ordenador son 
 - 1 MBs => 0.00 s
@@ -12,6 +18,7 @@ Los resultados que recibo desde mi ordenador son
 - 71 MBs => 0.07 s
 - 81 MBs => 0.06 s
 - 91 MBs => 0.07 s
+
 
 ## Gráfica
 ![](latency.png)
