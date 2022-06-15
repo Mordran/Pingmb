@@ -3,8 +3,8 @@
 ## Herramientas
 
 ## Procedimiento
-> 1)Intercambio de llaves entre el servidor web y el de almacenamiento
-> 2)Copiar el archivo al directorio publico de su cuenta en el servidor web.
+> 1) Intercambio de llaves entre el servidor web y el de almacenamiento
+> 2) Copiar el archivo al directorio publico de su cuenta en el servidor web.
 > 3) Utilizar wget y scp para la bajada y subida de datos.
 > 4) Subirlo todo al github.
 > 5) 1Mb = 1024x1024 bytes.
