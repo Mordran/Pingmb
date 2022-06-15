@@ -14,4 +14,4 @@ Los resultados que recibo desde mi ordenador son
 - 91 MBs => 0.07 s
 
 ## Gráfica
-latency.png
+[latency.png](https://github.com/Mordran/Pingmb/blob/d03d9068a09a5e0f0147fbfdc9f0a7f83898b28c/latency.png)
