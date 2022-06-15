@@ -14,3 +14,4 @@ Los resultados que recibo desde mi ordenador son
 - 91 MBs => 0.07 s
 
 ## Gráfica
+latency.png
