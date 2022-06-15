@@ -3,7 +3,7 @@
 ## Herramientas
 
 ## Procedimiento
-> 1) Intercambio de llaves entre el servidor web y el de almacenamiento
+> 1) Intercambio de llaves entre el servidor web (10.99.1.138) y el de almacenamiento (192.168.0.200)
 > 2) Copiar el archivo al directorio publico de su cuenta en el servidor web.
 > 3) Utilizar wget y scp para la bajada y subida de datos.
 > 4) Subirlo todo al github.
