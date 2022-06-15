@@ -20,7 +20,7 @@
 - 71 MBs => 0.03 s
 - 81 MBs => 0.03 s
 - 91 MBs => 0.04 s
-![](resultados.jpeg)
+![](Resultados.jpeg)
 
 
 ## Gráfica
