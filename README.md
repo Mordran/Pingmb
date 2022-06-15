@@ -12,3 +12,5 @@ Los resultados que recibo desde mi ordenador son
 - 71 MBs => 0.07 s
 - 81 MBs => 0.06 s
 - 91 MBs => 0.07 s
+
+## Gráfica
