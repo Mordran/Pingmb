@@ -26,5 +26,5 @@
 
 
 ## Gráfica
-El eje vertical es el tiempo en segundos y el eje horizontal son los megas 
+La gráfica de la latencia esta representada de la siguiente forma; eje vertical es el tiempo en segundos y el eje horizontal es el tamaño de los archivos en megas 
 ![](latency.png)
