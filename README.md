@@ -1,7 +1,7 @@
 # Pingmb
 
 ## Metodología
-Lo que se quiere obtener de este analizis es la latencia entre el servidor web y el servidor de datos para graficarlo y comparar los resultados con otros para ver si es que hay diferencia.
+Lo que se quiere obtener de este análisis es la latencia entre el servidor web y el servidor de datos para graficarlo y comparar los resultados con otros para ver si es que hay diferencia.
 
 ## Requerimientos
 - Intercambio de llaves entre el servidor web y el servidor de datos 
