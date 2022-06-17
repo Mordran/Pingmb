@@ -1,13 +1,13 @@
 # Pingmb
 
-## Herramientas
+## Metodología
+Lo que se quiere obtener de este analizis es la latencia entre el servidor web y el servidor de datos para graficarlo y comparar los resultados con otros para ver si es que hay diferencia.
 
-## Procedimiento
-> 1) Intercambio de llaves entre el servidor web (10.99.1.138) y el de almacenamiento (192.168.0.200)
-> 2) Copiar el archivo al directorio publico de su cuenta en el servidor web.
-> 3) Utilizar wget y scp para la bajada y subida de datos.
-> 4) Subirlo todo al github.
-> 5) 1Mb = 1024x1024 bytes.
+## Requerimientos
+- Intercambio de llaves entre el servidor web y el servidor de datos 
+- Calcular la latencia entre el servidor de datos y el servidor web 
+- Usar scp para copiar los archivos de un servidor a otro 
+- Graficar la latencia 
 
 ## Resultados
 - 1 MBs => 0.00 s
