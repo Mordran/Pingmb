@@ -26,4 +26,5 @@
 
 
 ## Gráfica
+El eje vertical es el tiempo en segundos y el eje horizontal son los megas 
 ![](latency.png)
